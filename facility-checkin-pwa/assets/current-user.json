@@ -1,0 +1,28 @@
+{
+  "id": "user-123",
+  "email": "jane.doe@example.com",
+  "name": "Jane Doe",
+  "membershipType": "premium",
+  "memberSince": "2024-01-15",
+  "membershipStatus": "active",
+  "profileImage": "https://via.placeholder.com/150",
+  "qrCode": "MEMBER-123-456-789",
+  "membershipDetails": {
+    "tier": "Premium",
+    "accessLevel": "24/7",
+    "homeLocation": "facility-001",
+    "expiryDate": "2025-01-15",
+    "visits": 47,
+    "allowedFacilities": "all"
+  },
+  "emergencyContact": {
+    "name": "John Doe",
+    "relationship": "Spouse",
+    "phone": "+61 400 123 456"
+  },
+  "preferences": {
+    "notifications": true,
+    "autoCheckout": true,
+    "autoCheckoutAfterMinutes": 120
+  }
+}

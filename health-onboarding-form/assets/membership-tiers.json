@@ -1,0 +1,73 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic Membership",
+    "price": 29.99,
+    "billingPeriod": "month",
+    "features": [
+      "Access to gym floor during staffed hours",
+      "Cardio and strength equipment",
+      "Locker room access",
+      "Free fitness assessment"
+    ],
+    "accessHours": "6am - 10pm"
+  },
+  {
+    "id": "premium",
+    "name": "Premium Membership",
+    "price": 49.99,
+    "billingPeriod": "month",
+    "features": [
+      "24/7 gym access",
+      "All Basic features",
+      "Group fitness classes",
+      "Access to pool and sauna",
+      "Free guest passes (2 per month)",
+      "Discounted personal training sessions"
+    ],
+    "accessHours": "24/7",
+    "popular": true
+  },
+  {
+    "id": "elite",
+    "name": "Elite Membership",
+    "price": 79.99,
+    "billingPeriod": "month",
+    "features": [
+      "All Premium features",
+      "Unlimited group fitness classes",
+      "4 personal training sessions per month",
+      "Access to all partner facilities",
+      "Priority booking for classes",
+      "Towel service",
+      "Nutrition consultation (quarterly)",
+      "Free guest passes (5 per month)"
+    ],
+    "accessHours": "24/7"
+  },
+  {
+    "id": "basic-annual",
+    "name": "Basic Annual",
+    "price": 299.99,
+    "billingPeriod": "year",
+    "features": [
+      "All Basic membership features",
+      "Save 16% vs monthly",
+      "No commitment after first year"
+    ],
+    "accessHours": "6am - 10pm"
+  },
+  {
+    "id": "premium-annual",
+    "name": "Premium Annual",
+    "price": 499.99,
+    "billingPeriod": "year",
+    "features": [
+      "All Premium membership features",
+      "Save 17% vs monthly",
+      "Bonus: 2 free personal training sessions",
+      "No commitment after first year"
+    ],
+    "accessHours": "24/7"
+  }
+]
