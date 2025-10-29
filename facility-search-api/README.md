@@ -32,17 +32,13 @@ Build a RESTful API that allows users to search and filter fitness facilities. T
 ### 3. Technical Requirements
 
 - The project must be written in **TypeScript**
-- Include tests for your API endpoints
-- Implement proper error handling and HTTP status codes
-- Add request validation
-- Implement structured logging with request tracing
+- Implement this as you would for a production system
 
 ## Stretch Goals (If you have extra time)
 
 - Filter facilities by amenities (e.g., return only facilities with "Pool" or "Sauna")
 - Add pagination support for search results
 - Add health check endpoint
-- Handle edge cases (empty searches, invalid IDs, malformed requests)
 - Add API documentation (OpenAPI/Swagger)
 - Implement rate limiting
 - Add caching layer for frequently accessed data
@@ -52,6 +48,7 @@ Build a RESTful API that allows users to search and filter fitness facilities. T
 1. Review the provided assets in the `assets/` folder
 
 2. Design your API structure:
+
    - What endpoints will you create?
    - What request/response formats will you use?
    - How will you structure your data?
@@ -60,9 +57,7 @@ Build a RESTful API that allows users to search and filter fitness facilities. T
 
 4. Implement your solution
 
-5. Write tests
-
-6. Document your API
+5. Document your API
 
 ## Submission
 
