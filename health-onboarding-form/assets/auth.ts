@@ -14,8 +14,8 @@
  *   const [error, setError] = useState('');
  *   const [loading, setLoading] = useState(false);
  *
- *   const handleSubmit = async (e) => {
- *     e.preventDefault();
+ *   const handleSubmit = async (event) => {
+ *     event.preventDefault();
  *     setLoading(true);
  *     setError('');
  *
@@ -23,8 +23,8 @@
  *       const { token, user } = await login(email, password);
  *       localStorage.setItem('auth_token', token);
  *       // Redirect to onboarding form
- *     } catch (err) {
- *       setError(err.message);
+ *     } catch (error) {
+ *       setError(error.message);
  *     } finally {
  *       setLoading(false);
  *     }

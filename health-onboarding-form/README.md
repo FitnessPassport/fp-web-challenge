@@ -2,9 +2,9 @@
 
 ## Overview
 
-Build a multi-step registration form for new gym members. Users need to provide information across multiple steps before completing their signup. This challenge is designed to be completed within **2 hours** and focuses on React component architecture, state management, form handling, validation, and user experience.
+Build a multi-step registration form for new gym members. Users need to provide information across multiple steps before completing their sign up. This challenge is designed to be completed within **2 hours** and focuses on React component architecture, state management, form handling, validation, and user experience.
 
-**Important:** The goal is not necessarily to finish every feature. We are most interested in seeing your approach to state management, component design, form validation, and how you think about user experience. A well-structured solution with good UX is better than a feature-complete but poorly organized one.
+**Important:** The goal is not necessarily to finish every feature. We understand the requirements are ambitious for 2 hours, and we're most interested in seeing what you prioritise and your approach to problem-solving. We value seeing your design decisions, code quality, and how you think about production systems. A well-structured, partially complete solution with good fundamentals is better than a rushed, fully complete one.
 
 ## Provided Assets
 
@@ -14,7 +14,8 @@ Build a multi-step registration form for new gym members. Users need to provide 
 
 ## Requirements
 
-Build a multi-step registration workflow for gym membership signup. Consider:
+Build a multi-step registration workflow for gym membership sign up. Consider:
+
 - What information needs to be collected?
 - How should the form be broken into steps?
 - How will you manage state across steps?

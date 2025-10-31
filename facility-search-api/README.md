@@ -4,7 +4,7 @@
 
 Build a RESTful API that allows users to search and filter fitness facilities. This challenge is designed to be completed within **2 hours** and focuses on API design, data handling, error handling, testing, and production-readiness considerations.
 
-**Important:** The goal is not necessarily to finish every feature. We understand the requirements are ambitious for 2 hours, and we're most interested in seeing what you prioritize and your approach to problem-solving. We value seeing your API design decisions, code quality, and how you think about production systems. A well-structured, partially complete solution with good fundamentals is better than a rushed, fully complete one.
+**Important:** The goal is not necessarily to finish every feature. We understand the requirements are ambitious for 2 hours, and we're most interested in seeing what you prioritise and your approach to problem-solving. We value seeing your API design decisions, code quality, and how you think about production systems. A well-structured, partially complete solution with good fundamentals is better than a rushed, fully complete one.
 
 ## Provided Assets
 
