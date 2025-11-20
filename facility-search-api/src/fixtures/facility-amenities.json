@@ -1,0 +1,1754 @@
+[
+  {
+    "facilityId": "facility-001",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-001",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-001",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-001",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-002",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-002",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-002",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-003",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-003",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-003",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-003",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-004",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-004",
+    "amenity": "powerlifting equipment"
+  },
+  {
+    "facilityId": "facility-004",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-005",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-005",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-005",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-005",
+    "amenity": "spa"
+  },
+  {
+    "facilityId": "facility-005",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-005",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-006",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-006",
+    "amenity": "strongman equipment"
+  },
+  {
+    "facilityId": "facility-006",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-007",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-007",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-007",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-007",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-008",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-008",
+    "amenity": "aqua aerobics"
+  },
+  {
+    "facilityId": "facility-008",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-008",
+    "amenity": "steam room"
+  },
+  {
+    "facilityId": "facility-009",
+    "amenity": "boxing ring"
+  },
+  {
+    "facilityId": "facility-009",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-009",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-010",
+    "amenity": "crossfit equipment"
+  },
+  {
+    "facilityId": "facility-010",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-010",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-010",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-011",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-011",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-011",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-011",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-011",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-012",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-012",
+    "amenity": "powerlifting equipment"
+  },
+  {
+    "facilityId": "facility-012",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-013",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-013",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-013",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-014",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-014",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-014",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-014",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-015",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-015",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-015",
+    "amenity": "spa"
+  },
+  {
+    "facilityId": "facility-015",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-015",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-016",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-016",
+    "amenity": "aqua aerobics"
+  },
+  {
+    "facilityId": "facility-016",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-016",
+    "amenity": "steam room"
+  },
+  {
+    "facilityId": "facility-016",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-017",
+    "amenity": "crossfit equipment"
+  },
+  {
+    "facilityId": "facility-017",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-017",
+    "amenity": "olympic lifting platform"
+  },
+  {
+    "facilityId": "facility-018",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-018",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-018",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-018",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-018",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-019",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-019",
+    "amenity": "meditation room"
+  },
+  {
+    "facilityId": "facility-019",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-020",
+    "amenity": "boxing ring"
+  },
+  {
+    "facilityId": "facility-020",
+    "amenity": "heavy bags"
+  },
+  {
+    "facilityId": "facility-020",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-020",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-021",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-021",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-021",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-021",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-021",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-021",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-022",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-022",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-022",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-022",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-023",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-023",
+    "amenity": "meditation room"
+  },
+  {
+    "facilityId": "facility-023",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-023",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-024",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-024",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-024",
+    "amenity": "spa"
+  },
+  {
+    "facilityId": "facility-024",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-024",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-025",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-025",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-025",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-025",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-026",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-026",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-026",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-026",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-026",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-026",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-027",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-027",
+    "amenity": "powerlifting equipment"
+  },
+  {
+    "facilityId": "facility-027",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-027",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-028",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-028",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-028",
+    "amenity": "meditation room"
+  },
+  {
+    "facilityId": "facility-028",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-029",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-029",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-029",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-029",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-029",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-030",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-030",
+    "amenity": "spa"
+  },
+  {
+    "facilityId": "facility-030",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-030",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-030",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-031",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-031",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-031",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-031",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-032",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-032",
+    "amenity": "strongman equipment"
+  },
+  {
+    "facilityId": "facility-032",
+    "amenity": "boxing ring"
+  },
+  {
+    "facilityId": "facility-032",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-033",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-033",
+    "amenity": "aqua aerobics"
+  },
+  {
+    "facilityId": "facility-033",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-033",
+    "amenity": "steam room"
+  },
+  {
+    "facilityId": "facility-033",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-034",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-034",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-034",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-034",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-034",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-035",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-035",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-035",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-035",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-036",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-036",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-036",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-036",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-036",
+    "amenity": "spa"
+  },
+  {
+    "facilityId": "facility-037",
+    "amenity": "boxing ring"
+  },
+  {
+    "facilityId": "facility-037",
+    "amenity": "heavy bags"
+  },
+  {
+    "facilityId": "facility-037",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-037",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-038",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-038",
+    "amenity": "lake views"
+  },
+  {
+    "facilityId": "facility-038",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-038",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-038",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-039",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-039",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-039",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-039",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-040",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-040",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-040",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-040",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-040",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-041",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-041",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-041",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-041",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-042",
+    "amenity": "crossfit equipment"
+  },
+  {
+    "facilityId": "facility-042",
+    "amenity": "olympic lifting platform"
+  },
+  {
+    "facilityId": "facility-042",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-043",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-043",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-043",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-043",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-044",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-044",
+    "amenity": "spa"
+  },
+  {
+    "facilityId": "facility-044",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-044",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-044",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-044",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-045",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-045",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-045",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-045",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-045",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-046",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-046",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-046",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-046",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-047",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-047",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-047",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-047",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-048",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-048",
+    "amenity": "water slides"
+  },
+  {
+    "facilityId": "facility-048",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-048",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-048",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-049",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-049",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-049",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-049",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-050",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-050",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-050",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-050",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-050",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-050",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-051",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-051",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-051",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-051",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-051",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-052",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-052",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-052",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-052",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-052",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-053",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-053",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-053",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-053",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-054",
+    "amenity": "crossfit equipment"
+  },
+  {
+    "facilityId": "facility-054",
+    "amenity": "olympic lifting platform"
+  },
+  {
+    "facilityId": "facility-054",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-054",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-055",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-055",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-055",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-055",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-056",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-056",
+    "amenity": "aqua aerobics"
+  },
+  {
+    "facilityId": "facility-056",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-056",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-056",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-057",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-057",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-057",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-057",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-058",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-058",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-058",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-058",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-058",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-059",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-059",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-059",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-059",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-060",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-060",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-060",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-060",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-061",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-061",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-061",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-061",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-062",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-062",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-062",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-062",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-063",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-063",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-063",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-063",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-063",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-064",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-064",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-064",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-064",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-064",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-065",
+    "amenity": "powerlifting equipment"
+  },
+  {
+    "facilityId": "facility-065",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-065",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-066",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-066",
+    "amenity": "water slides"
+  },
+  {
+    "facilityId": "facility-066",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-066",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-066",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-067",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-067",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-067",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-067",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-068",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-068",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-068",
+    "amenity": "meditation room"
+  },
+  {
+    "facilityId": "facility-068",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-069",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-069",
+    "amenity": "athletics track"
+  },
+  {
+    "facilityId": "facility-069",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-069",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-069",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-070",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-070",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-070",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-070",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-070",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-071",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-071",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-071",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-071",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-072",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-072",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-072",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-072",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-073",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-073",
+    "amenity": "water slides"
+  },
+  {
+    "facilityId": "facility-073",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-073",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-073",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-073",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-074",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-074",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-074",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-074",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-075",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-075",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-075",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-075",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-075",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-076",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-076",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-076",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-076",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-076",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-077",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-077",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-077",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-077",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-077",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-078",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-078",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-078",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-078",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-079",
+    "amenity": "boxing ring"
+  },
+  {
+    "facilityId": "facility-079",
+    "amenity": "heavy bags"
+  },
+  {
+    "facilityId": "facility-079",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-079",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-080",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-080",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-080",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-080",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-081",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-081",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-081",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-082",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-082",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-082",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-082",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-082",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-083",
+    "amenity": "crossfit equipment"
+  },
+  {
+    "facilityId": "facility-083",
+    "amenity": "olympic lifting platform"
+  },
+  {
+    "facilityId": "facility-083",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-084",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-084",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-084",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-084",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-084",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-085",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-085",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-085",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-085",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-086",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-086",
+    "amenity": "aqua aerobics"
+  },
+  {
+    "facilityId": "facility-086",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-086",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-086",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-087",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-087",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-087",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-087",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-087",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-088",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-088",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-088",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-088",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-088",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-089",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-089",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-089",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-089",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-090",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-090",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-090",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-090",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-091",
+    "amenity": "24/7 access"
+  },
+  {
+    "facilityId": "facility-091",
+    "amenity": "free weights"
+  },
+  {
+    "facilityId": "facility-091",
+    "amenity": "cardio equipment"
+  },
+  {
+    "facilityId": "facility-091",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-092",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-092",
+    "amenity": "water slides"
+  },
+  {
+    "facilityId": "facility-092",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-092",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-092",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-093",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-093",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-093",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-093",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-094",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-094",
+    "amenity": "athletics track"
+  },
+  {
+    "facilityId": "facility-094",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-094",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-094",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-095",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-095",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-095",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-095",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-096",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-096",
+    "amenity": "tennis courts"
+  },
+  {
+    "facilityId": "facility-096",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-096",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-096",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-097",
+    "amenity": "yoga classes"
+  },
+  {
+    "facilityId": "facility-097",
+    "amenity": "pilates studio"
+  },
+  {
+    "facilityId": "facility-097",
+    "amenity": "meditation room"
+  },
+  {
+    "facilityId": "facility-097",
+    "amenity": "personal training"
+  },
+  {
+    "facilityId": "facility-098",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-098",
+    "amenity": "basketball court"
+  },
+  {
+    "facilityId": "facility-098",
+    "amenity": "squash courts"
+  },
+  {
+    "facilityId": "facility-098",
+    "amenity": "group classes"
+  },
+  {
+    "facilityId": "facility-098",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-099",
+    "amenity": "beach access"
+  },
+  {
+    "facilityId": "facility-099",
+    "amenity": "outdoor training"
+  },
+  {
+    "facilityId": "facility-099",
+    "amenity": "pool"
+  },
+  {
+    "facilityId": "facility-099",
+    "amenity": "cafe"
+  },
+  {
+    "facilityId": "facility-099",
+    "amenity": "parking"
+  },
+  {
+    "facilityId": "facility-100",
+    "amenity": "olympic pool"
+  },
+  {
+    "facilityId": "facility-100",
+    "amenity": "aqua aerobics"
+  },
+  {
+    "facilityId": "facility-100",
+    "amenity": "sauna"
+  },
+  {
+    "facilityId": "facility-100",
+    "amenity": "steam room"
+  },
+  {
+    "facilityId": "facility-100",
+    "amenity": "kids programs"
+  },
+  {
+    "facilityId": "facility-100",
+    "amenity": "parking"
+  }
+]

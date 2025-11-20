@@ -1,0 +1,19 @@
+{
+  // Enable Vitest extension
+  "vitest.enable": true,
+  
+  // Use npx to run vitest directly
+  "vitest.commandLine": "npx vitest",
+  
+  // Don't auto-open peek view
+  "testing.automaticallyOpenPeekView": "never",
+  
+  // Environment variables for tests
+  "vitest.nodeEnv": {
+    "NODE_ENV": "test"
+  },
+  
+  // Workspace root for vitest
+  "vitest.workspaceConfig": "./vitest.config.ts"
+}
+
